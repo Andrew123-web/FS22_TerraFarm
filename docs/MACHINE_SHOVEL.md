@@ -108,7 +108,7 @@ Enable effect nodes when machine is working the ground. Uses the base game vehic
 
 ```xml
 <vehicle>
-    <machine type="shovel">
+    <machine type="bucket">
         <input modes="FLATTEN SMOOTH LOWER PAINT" />
 
         <effects effectTurnOffThreshold="0.3" >
@@ -135,7 +135,7 @@ Only applicable if machine has effect nodes.
 
 ```xml
 <vehicle>
-    <machine type="shovel">
+    <machine type="bucket">
         <input modes="FLATTEN SMOOTH LOWER PAINT" />
 
         <effectAnimations>
@@ -156,7 +156,7 @@ Only applicable if machine has effect nodes.
 
 ```xml
 <vehicle>
-    <machine type="shovel">
+    <machine type="bucket">
         <input modes="FLATTEN SMOOTH LOWER PAINT" />
 
         <effects effectTurnOffThreshold="0.3" >
